@@ -1,0 +1,19 @@
+{
+  "name": "tacocat",
+  "version": "1.0.0",
+  "description": "Selects random game from user inventory - developed for indecisive gamers.",
+  "main": "rndm-game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdeggers84/tacocat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdeggers84/tacocat/issues"
+  },
+  "homepage": "https://github.com/mdeggers84/tacocat#readme"
+}
